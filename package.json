@@ -1,0 +1,51 @@
+{
+  "name": "@webboot/db",
+  "author": "Wizards & Witches @ Webboot DAO",
+  "homepage": "https://webboot.github.io/db",
+  "main": "src/index.mjs",
+  "license": "AGPL-3.0",
+  "description": "database for immutable datasets of url => value pairs.",
+  "private": true,
+  "scripts": {
+    "start": "t -p",
+    "test": "t",
+    "format": "f -w",
+    "calls": "calls"
+  },
+  "files": [
+    "src"
+  ],
+  "engines": {
+    "node": ">=13.5.0"
+  },
+  "engineString": true,
+  "devDependencies": {
+    "@magic/format": "0.0.7",
+    "@magic/test": "0.1.33"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webboot/db.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webboot/db/issues"
+  },
+  "keywords": [
+    "webboot",
+    "sri",
+    "subresource",
+    "integriy"
+  ],
+  "contributors": [
+    {
+      "name": "jascha ehrenreich",
+      "github": "jaeh"
+    }
+  ],
+  "dependencies": {
+    "@magic/error": "0.0.5",
+    "@magic/fs": "0.0.4",
+    "@magic/semver": "0.0.5",
+    "@magic/types": "0.1.11"
+  }
+}
