@@ -21,8 +21,8 @@
   },
   "engineString": true,
   "devDependencies": {
-    "@magic/format": "0.0.7",
-    "@magic/test": "0.1.33"
+    "@magic/format": "0.0.8",
+    "@magic/test": "0.1.41"
   },
   "repository": {
     "type": "git",
@@ -45,8 +45,8 @@
   ],
   "dependencies": {
     "@magic/error": "0.0.5",
-    "@magic/fs": "0.0.4",
-    "@magic/semver": "0.0.5",
+    "@magic/fs": "0.0.5",
+    "@magic/semver": "0.0.6",
     "@magic/types": "0.1.11"
   }
 }
