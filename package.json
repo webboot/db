@@ -47,6 +47,6 @@
     "@magic/error": "0.0.5",
     "@magic/fs": "0.0.5",
     "@magic/semver": "0.0.6",
-    "@magic/types": "0.1.11"
+    "@magic/types": "0.1.12"
   }
 }
