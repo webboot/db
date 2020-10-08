@@ -1,12 +1,11 @@
 {
   "name": "@webboot/db",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "author": "Wizards & Witches @ Webboot DAO",
   "homepage": "https://webboot.github.io/db",
   "main": "src/index.mjs",
   "license": "AGPL-3.0",
   "description": "database for immutable datasets of url => value pairs.",
-  "private": true,
   "scripts": {
     "start": "t -p",
     "test": "t",
