@@ -22,7 +22,7 @@
   "dependencies": {
     "@magic/error": "0.0.7",
     "@magic/fs": "0.0.8",
-    "@magic/semver": "0.0.8",
+    "@magic/semver": "0.0.9",
     "@magic/types": "0.1.13"
   },
   "devDependencies": {
